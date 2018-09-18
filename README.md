@@ -1,2 +1,2 @@
 # Text-analysis
-Naive Bayes analysis for movie reviews
+Naive Bayes model for movie reviews
